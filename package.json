@@ -1,0 +1,15 @@
+{
+  "displayName": "Stereome",
+  "name": "com.bxkangki.stereome",
+  "version": "0.0.4",
+  "unity": "6000.0",
+  "author": {
+    "name": "BxKangKi"
+  },
+  "description": "Stereome is a package that include UpdateManager, FileSystem, Singleton, etc.",
+  "dependencies": {
+    "com.unity.mathematics": "1.2.1",
+    "com.unity.burst": "1.8.18",
+    "com.unity.collections": "2.5.1"
+  }
+}
